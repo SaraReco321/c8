@@ -1,0 +1,8 @@
+button{
+    background: linear-gradient(rgb(255, 0, 149), rgb(255, 59, 173));
+    border: 5px dotted rgb(212, 0, 99);
+}
+body{
+     background: linear-gradient(rgb(255, 0, 76), rgb(255, 59, 101));
+     min-height: 100vh;
+}
