@@ -1,8 +1,9 @@
 button{
-    background: linear-gradient(rgb(255, 0, 149), rgb(255, 59, 173));
-    border: 5px dotted rgb(212, 0, 99);
+    background: linear-gradient(rgb(255, 191, 191), rgb(255, 136, 136));
+    border: 5px solid rgb(255, 0, 0);
+    font-size: 50 px;
 }
 body{
-     background: linear-gradient(rgb(255, 0, 76), rgb(255, 59, 101));
+     background: linear-gradient(rgb(255, 0, 0), rgb(255, 25, 75));
      min-height: 100vh;
 }
